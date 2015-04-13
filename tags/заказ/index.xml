@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Заказ on Блог</title>
-    <link>http://localhost:57772/blog/tags/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7/</link>
+    <link>http://printbooking.org/blog/tags/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7/</link>
     <description>Recent content in Заказ on Блог</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 15:05:41 +0300</lastBuildDate>
-    <atom:link href="http://localhost:57772/blog/tags/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://printbooking.org/blog/tags/%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Пречек</title>
-      <link>http://localhost:57772/blog/post/tutorials/precheck/</link>
+      <link>http://printbooking.org/blog/post/tutorials/precheck/</link>
       <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
       
-      <guid>http://localhost:57772/blog/post/tutorials/precheck/</guid>
+      <guid>http://printbooking.org/blog/post/tutorials/precheck/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Принятие заказа</title>
-      <link>http://localhost:57772/blog/post/tutorials/get_offer/</link>
+      <link>http://printbooking.org/blog/post/tutorials/get_offer/</link>
       <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
       
-      <guid>http://localhost:57772/blog/post/tutorials/get_offer/</guid>
+      <guid>http://printbooking.org/blog/post/tutorials/get_offer/</guid>
       <description>&lt;p&gt;После того, как прайс-лист заполнен, Вы можете перейти по ссылке в системе &amp;ldquo;Принять заказ&amp;rdquo;.&lt;/p&gt;
 
 &lt;p&gt;Загрузится следующее окно:
-&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/index.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/index.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Рассмотрим более подробно слева вниз.
 В этой области экрана обозначены: номер чека, итоговая сумма чека и количество страниц
 каждого формата.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/top_left.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/top_left.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Следующий экран дает нам представление об активных номенклатурах. Три кнопки слева направо: поиск чека по номеру,
 удаление всех активных номенклатур, удаление последней активной номенклатуры.
 Для быстрого редактирования: при нажатии на активную номерклатуру - она удалится из списка.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/cur_noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/cur_noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;После того, как товары/услуги добавлены в чек, необходимо его закрыть. Для этого существуют следующие
@@ -50,76 +50,76 @@
 
 &lt;ul&gt;
 &lt;li&gt;Оплатить - нажимается при оплате товаров/услуг, при этом в последующих окнах устанавливаются контрагенты, скидки.&lt;/li&gt;
-&lt;li&gt;Пречек - нажимается, когда заказ не завершен (заказ не сделан) и в последующем окне спрашивается связm с контрагентом. &lt;a href=&#34;http://localhost:57772/blog/blog/post/tutorials/precheck/&#34;&gt;Подробнее&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Пречек - нажимается, когда заказ не завершен (заказ не сделан) и в последующем окне спрашивается связm с контрагентом. &lt;a href=&#34;http://printbooking.org/blog/blog/post/tutorials/precheck/&#34;&gt;Подробнее&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Завершить - моментально закрывает чек без вопросов.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/big_buttons.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/big_buttons.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Наиболее популярные товары/услуги заносятся в быстрый старт, который можно скрыть нажатием
 на панель с надписью &amp;ldquo;Быстрый старт&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/fast_start.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/fast_start.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Есть навигация по номеклатурам: по основным категориям (формат, материал, цветность и заполнение) и дополнительным(полиграфия, постпечать, брошюровка).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/navigation.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/navigation.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;На следующем экране перечислены все основные номенклатуры для быстрого добавления товаров/услуг в чек.
 При выборе номенклатур система исклучает несвязанные в прайсах номенклатуры, что позволяет уменьшить время поиска номенклатур.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Если номенклатры соотвествуют товару или услуге, то показывается следующее окно для уточнения параметрова заказа (количество, количество экземпляров и другое)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;При выборе количества экземпляров показывается экономия в зависимости от тиража.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/show_price.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/show_price.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;При выборе &amp;ldquo;С двух сторон&amp;rdquo; добавляются номенклатуры второй стороны, которые так же как и номенклатуры первой стороны можно поменять, щелкая на них.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/show_price_twice.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/show_price_twice.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Если данный товар/услуга введены верно, нажимается &amp;ldquo;В чек&amp;rdquo; и товар добавляется в чек. Иначе выходим в основное окно.
 Под большими кнопками расположились связанные с товаром/услугой дополнительные номенклатуры.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/buttons_finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/buttons_finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Так выглядит окно с выбранными дополнительными услугами/товарами.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/finish_with_dops.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/finish_with_dops.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;После нажатия &amp;ldquo;В чек&amp;rdquo; нажимаем кнопку &amp;ldquo;Оплатить&amp;rdquo;. Появляется следующее окно:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/preview.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/preview.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Тут можно отредактировать выбранные товары нажатием на них.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/preview_item_show_menu.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/preview_item_show_menu.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Во вкладке &amp;ldquo;Контргагент&amp;rdquo; можно привязать к заказу контрагент и потом выписать счет/акт.&lt;/p&gt;
 
 &lt;p&gt;Во вкладке &amp;ldquo;Скидка&amp;rdquo; выбирается скидка, также, если ВЫ используете бонусные карты, к заказу можно привязать карту Клиента.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/preview_sale.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/preview_sale.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Для расчета сдачи служит последняя вкладка. Выбираете сколько Вам дали денег и видите, сколько Вы должны вернуть.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/get_offer/preview_sdacha.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/get_offer/preview_sdacha.png&#34; alt=&#34;принятие заказа&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Видите, теперь заказ принять просто.&lt;/p&gt;

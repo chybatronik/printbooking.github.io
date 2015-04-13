@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Регистрация on Блог</title>
-    <link>http://localhost:57772/blog/tags/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F/</link>
+    <link>http://printbooking.org/blog/tags/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F/</link>
     <description>Recent content in Регистрация on Блог</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
     <lastBuildDate>Thu, 01 Jan 2015 15:05:41 +0300</lastBuildDate>
-    <atom:link href="http://localhost:57772/blog/tags/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://printbooking.org/blog/tags/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Регистрация</title>
-      <link>http://localhost:57772/blog/post/tutorials/registrate/</link>
+      <link>http://printbooking.org/blog/post/tutorials/registrate/</link>
       <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
       
-      <guid>http://localhost:57772/blog/post/tutorials/registrate/</guid>
-      <description>&lt;p&gt;Перейдите по ссылке &lt;a href=&#34;http://localhost:57772/blog/&#34;&gt;PrintBooking&lt;/a&gt;. Нажмите на копку &amp;ldquo;НАЧАТЬ&amp;rdquo;. Выберите тариф и
+      <guid>http://printbooking.org/blog/post/tutorials/registrate/</guid>
+      <description>&lt;p&gt;Перейдите по ссылке &lt;a href=&#34;http://printbooking.org/blog/&#34;&gt;PrintBooking&lt;/a&gt;. Нажмите на копку &amp;ldquo;НАЧАТЬ&amp;rdquo;. Выберите тариф и
 нажмите &amp;ldquo;Зарегистрируйся&amp;rdquo;.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/registrate/tariff.png&#34; alt=&#34;тариф&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/registrate/tariff.png&#34; alt=&#34;тариф&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Появится следующая форма. Заполняем: имя, почта и пароль.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/registrate/reg_form.png&#34; alt=&#34;форма&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/registrate/reg_form.png&#34; alt=&#34;форма&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Поздравляем, Вы зарегистрировались в PrintBooking. После регистрации Вы попали
 в админку.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/tutorials/registrate/first_admin.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/tutorials/registrate/first_admin.png&#34; alt=&#34;админка&#34; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://localhost:57772/blog/blog/post/tutorials/fill_my_contact&#34;&gt;Заполнение контактной информации&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://printbooking.org/blog/blog/post/tutorials/fill_my_contact&#34;&gt;Заполнение контактной информации&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
     </item>
     
