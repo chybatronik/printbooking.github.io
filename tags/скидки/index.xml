@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Скидки on Блог</title>
+    <link>http://localhost:57772/blog/tags/%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8/</link>
+    <description>Recent content in Скидки on Блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 03 Jan 2015 15:05:41 +0300</lastBuildDate>
+    <atom:link href="http://localhost:57772/blog/tags/%D1%81%D0%BA%D0%B8%D0%B4%D0%BA%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Скидки</title>
+      <link>http://localhost:57772/blog/post/tutorials/sale/</link>
+      <pubDate>Sat, 03 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://localhost:57772/blog/post/tutorials/sale/</guid>
+      <description>&lt;p&gt;Добавить скидки легко. Загляните в настройки. Они спрятаны под иконкой&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/sale/icon.png&#34; alt=&#34;как выглядит иконка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Зайдите в Категории. Тут Вы можете увидеть все ваши категории, которые заполнены в номенклатурах.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://localhost:57772/blog/blog/image/sale/categories.png&#34; alt=&#34;категории&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Напротив каждой номерклатуры Вы можете найти столбец с названием &amp;ldquo;Разрешить скидку&amp;rdquo;. Поставленная галка напротив номерклатуры разрешает скидку данной номеклатуры. Т.к. прайс может содержать несколько номерклатур, то
+для разрешения скидки для прайса необходимо, чтобы все номерклатуры имели галки &amp;ldquo;разрешить скидку&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;На примере, на картинке разрешены скидки: формат, материал, цветность, заполнение и т.д.., то все прайсы, содержащие
+данные номерклатуры имеют разрешение на скидку.&lt;/p&gt;
+
+&lt;p&gt;Можете разрешить скидку для отдельного прайса. Для этого Вы должны найти интересующий прайс в &amp;ldquo;Прайс лист&amp;rdquo;,
+зайти в &amp;ldquo;редактировать&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Если скидка разрешена в категориях, то Вы увидете следующее:
+&lt;img src=&#34;http://localhost:57772/blog/blog/image/sale/price_list_edit.png&#34; alt=&#34;категории&#34; /&gt;
+
+Иначе, вы можете конкретно для прайса разрешить скидку.
+&lt;img src=&#34;http://localhost:57772/blog/blog/image/sale/price_list_edit_2.png&#34; alt=&#34;категории&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Также, Вы можете здесь добавить ограничение на скидку, которая даст Вам гарантию того, что
+на данный товар не будут распространяться нежелательные скидки.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
