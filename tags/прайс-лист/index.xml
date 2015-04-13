@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Прайс Лист on Блог</title>
+    <link>http://printbooking.github.io/tags/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/</link>
+    <description>Recent content in Прайс Лист on Блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Jan 2015 15:05:41 +0300</lastBuildDate>
+    <atom:link href="http://printbooking.github.io/tags/%D0%BF%D1%80%D0%B0%D0%B9%D1%81-%D0%BB%D0%B8%D1%81%D1%82/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Добавить в прайс-лист</title>
+      <link>http://printbooking.github.io/post/tutorials/add_price_lists/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/add_price_lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обзор прайс-листа</title>
+      <link>http://printbooking.github.io/post/tutorials/fill_price_lists/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/fill_price_lists/</guid>
+      <description>&lt;p&gt;Сразу после регистрации в Ваши настройки были добавлены некоторые &lt;a href=&#34;http://printbooking.github.io/nomenklatyras&#34;&gt;номеклатуры&lt;/a&gt; и цены в &lt;a href=&#34;http://printbooking.github.io/price_lists&#34;&gt;прайс-лист&lt;/a&gt;, чтобы Вам было проще и Вы моглт быстрее начать работать.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/index_price_lists.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Слева находятся фильтры, а справа название, цены, соответствующие тиражы.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Фильтры:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Вычисляемые - покажет Вам те прайсы, цены которых вычисляются по формуле.&lt;/li&gt;
+&lt;li&gt;В быстром старте - покажет Вам те прайсы, цены которых находятся в быстром старте. Это самые востребованные товары и услуги.&lt;/li&gt;
+&lt;li&gt;С ограниченной скидкой - те прайсы, у которых есть ограничение на максимально возможную скидку.&lt;/li&gt;
+&lt;li&gt;Без тиражей - те прайсы, у которых нет тиражей.&lt;/li&gt;
+&lt;li&gt;Вторая сторона постоянная цена - те прайсы, у которых при печати с двух сторон, цена второй стороны заданна постоянной ценой.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Следующие фильтры служат помощниками при поиске по номерклатуре.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/filter_category.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Значки:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В строчке прайса можно заметить значки, они несут информацию.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/row_price.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Вот, что они обозначают:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Цена вычисляется&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/calculate.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Установлено ограничение на скидку&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/ban.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Цена в быстром старте&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/fighter.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Разрешена скидка&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/heart.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Цена с двух сторон&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/retweet.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/get_offer&#34;&gt;Принятие заказа&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

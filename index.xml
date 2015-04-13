@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог</title>
+    <link>http://printbooking.github.io/</link>
+    <description>Recent content on Блог</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 31 Mar 2015 15:05:41 +0300</lastBuildDate>
+    <atom:link href="http://printbooking.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Добавлены Расходы</title>
+      <link>http://printbooking.github.io/post/add_cost/</link>
+      <pubDate>Tue, 31 Mar 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/add_cost/</guid>
+      <description>&lt;p&gt;Для полный картины Вашего бизнеса добавлены расходы.
+Теперь Вы можете просматривать баланс в статистике и бухгатеру стало легче вести КУДИР.&lt;/p&gt;
+
+&lt;p&gt;Расходы имеют категории (бумага,чернила, запчасти, оборудование, запчасти, канцтовары, прочее), с их помощью Вы сможете всегда увидеть в статистике на что уходят деньги и когда.&lt;/p&gt;
+
+&lt;p&gt;Для удобной работы имеется вкладка Поставщики, которая хранит информацию о Ваших поставщиках.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Улучшили интерфейс прайс листов в админке</title>
+      <link>http://printbooking.github.io/post/improve_admin_price_lists/</link>
+      <pubDate>Wed, 18 Mar 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/improve_admin_price_lists/</guid>
+      <description>&lt;p&gt;Мы добавили возможность в админке выбрать несколько прайсов и совершить действие над выбранными прайсами.
+Таких действий пока немного. Это: удаление, дублирование и установка ограничения на скидку.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_admin_price_lists/index_price_lists_actions.png&#34; alt=&#34;Выбор несколько прайсов&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Это улучшение сделает работу с прайсами более простой и менее затратной по времени.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://printbooking.github.io/about/</link>
+      <pubDate>Tue, 17 Mar 2015 14:52:02 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/about/</guid>
+      <description>&lt;p&gt;Находясь в тесном сотрудничестве с людьми, занимающимися оперативной печатью,
+мы создали самый лучший и современный &lt;a href=&#34;http://printbooking.org/&#34;&gt;продукт&lt;/a&gt;,
+который отвечает всем требованиям руководителей и работников
+компании по ведению данного бизнеса.&lt;/p&gt;
+
+&lt;p&gt;Поэтому мы с уверенностью можем сказать, что знаем, что необходимо именно
+Вам, и смело предлагаем Вам воспользоваться нашим продуктом.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Выгрузка счетов, актов в excel</title>
+      <link>http://printbooking.github.io/post/export_excel/</link>
+      <pubDate>Mon, 16 Mar 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/export_excel/</guid>
+      <description>&lt;p&gt;Редко нашим заказчикам требуется редактировать название услуг.
+Для решения этого мы реализовали экспорт актов и счетов в excel. Поэтому мы добавили выбор
+формата актов и счетов (pdf и excel). После нажатия на кнопку &amp;ldquo;получить акт/счет&amp;rdquo;, появляются ссылки на
+файлы для скачивания.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/export_excel/show_kontr_agent.png&#34; alt=&#34;Export excel&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Теперь будет проще работать клиентами.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Улучшили интерфейс номенклатуры</title>
+      <link>http://printbooking.github.io/post/improve_nomenklatyras/</link>
+      <pubDate>Thu, 12 Mar 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/improve_nomenklatyras/</guid>
+      <description>&lt;p&gt;Настало время для повышения удобства в админке.
+Мы фиксировали много жалоб по затруднению редактирования и созданию номерклатур.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/nom_2015_03_12.png&#34; alt=&#34;Что было&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Улучшили навигацию по тегам,отображение кнопок, интерфейс стал более понятным.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/nom_b1_2015_03_12.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Теперь кнопка &amp;ldquo;+&amp;rdquo;&amp;rdquo; возле названия раздела обозначает добавление новой номенклатуры.
+Также мы улучшили &amp;ldquo;добавление&amp;rdquo;, &amp;ldquo;редактирование&amp;rdquo;. Теперь там находятся две вкладки: осноные
+(это заполнение, формат, материал, цветность) и допы (полиграфия, постпечать и все остальное).
+Внутренний тег используется для структурированного отображения номенклатур.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/base_dop_nom.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Улучшены надписи с пояснением что за параметр. Надеемся, теперь будет легче понимать, что надо редактировать.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/params_noms.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Мы стали ближе к нашей цели.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Скидки</title>
+      <link>http://printbooking.github.io/post/tutorials/sale/</link>
+      <pubDate>Sat, 03 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/sale/</guid>
+      <description>&lt;p&gt;Добавить скидки легко. Загляните в настройки. Они спрятаны под иконкой&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/sale/icon.png&#34; alt=&#34;как выглядит иконка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Зайдите в Категории. Тут Вы можете увидеть все ваши категории, которые заполнены в номенклатурах.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/sale/categories.png&#34; alt=&#34;категории&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Напротив каждой номерклатуры Вы можете найти столбец с названием &amp;ldquo;Разрешить скидку&amp;rdquo;. Поставленная галка напротив номерклатуры разрешает скидку данной номеклатуры. Т.к. прайс может содержать несколько номерклатур, то
+для разрешения скидки для прайса необходимо, чтобы все номерклатуры имели галки &amp;ldquo;разрешить скидку&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;На примере, на картинке разрешены скидки: формат, материал, цветность, заполнение и т.д.., то все прайсы, содержащие
+данные номерклатуры имеют разрешение на скидку.&lt;/p&gt;
+
+&lt;p&gt;Можете разрешить скидку для отдельного прайса. Для этого Вы должны найти интересующий прайс в &amp;ldquo;Прайс лист&amp;rdquo;,
+зайти в &amp;ldquo;редактировать&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Если скидка разрешена в категориях, то Вы увидете следующее:
+&lt;img src=&#34;http://printbooking.github.io/blog/image/sale/price_list_edit.png&#34; alt=&#34;категории&#34; /&gt;
+
+Иначе, вы можете конкретно для прайса разрешить скидку.
+&lt;img src=&#34;http://printbooking.github.io/blog/image/sale/price_list_edit_2.png&#34; alt=&#34;категории&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Также, Вы можете здесь добавить ограничение на скидку, которая даст Вам гарантию того, что
+на данный товар не будут распространяться нежелательные скидки.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Добавить в прайс-лист</title>
+      <link>http://printbooking.github.io/post/tutorials/add_price_lists/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/add_price_lists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Контактная информация</title>
+      <link>http://printbooking.github.io/post/tutorials/fill_my_contact/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/fill_my_contact/</guid>
+      <description>&lt;p&gt;Printbooking поможет Вам заполнить акты/счета, печать товарных чеков. Для этого
+Вы должны сообщить Printbooking свои контактные данные.
+Для того, чтобы найти форму для заполения информации необходимо, найти следующую иконку и выбрать &amp;ldquo;Моя контактная информация&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_my_contact/find_contact.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Затем заполнить поля, ввести Ваш текущий пароль и нажать &amp;ldquo;Обновить&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_my_contact/form.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Теперь Вы сможете с легкостью создавать акты и счета.&lt;/p&gt;
+
+&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/fill_price_lists&#34;&gt;Заполнение прайс-листа&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пречек</title>
+      <link>http://printbooking.github.io/post/tutorials/precheck/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/precheck/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Обзор прайс-листа</title>
+      <link>http://printbooking.github.io/post/tutorials/fill_price_lists/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/fill_price_lists/</guid>
+      <description>&lt;p&gt;Сразу после регистрации в Ваши настройки были добавлены некоторые &lt;a href=&#34;http://printbooking.github.io/nomenklatyras&#34;&gt;номеклатуры&lt;/a&gt; и цены в &lt;a href=&#34;http://printbooking.github.io/price_lists&#34;&gt;прайс-лист&lt;/a&gt;, чтобы Вам было проще и Вы моглт быстрее начать работать.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/index_price_lists.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Слева находятся фильтры, а справа название, цены, соответствующие тиражы.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Фильтры:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Вычисляемые - покажет Вам те прайсы, цены которых вычисляются по формуле.&lt;/li&gt;
+&lt;li&gt;В быстром старте - покажет Вам те прайсы, цены которых находятся в быстром старте. Это самые востребованные товары и услуги.&lt;/li&gt;
+&lt;li&gt;С ограниченной скидкой - те прайсы, у которых есть ограничение на максимально возможную скидку.&lt;/li&gt;
+&lt;li&gt;Без тиражей - те прайсы, у которых нет тиражей.&lt;/li&gt;
+&lt;li&gt;Вторая сторона постоянная цена - те прайсы, у которых при печати с двух сторон, цена второй стороны заданна постоянной ценой.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Следующие фильтры служат помощниками при поиске по номерклатуре.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/filter_category.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Значки:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;В строчке прайса можно заметить значки, они несут информацию.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/row_price.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Вот, что они обозначают:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Цена вычисляется&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/calculate.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Установлено ограничение на скидку&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/ban.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Цена в быстром старте&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/fighter.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Разрешена скидка&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/heart.png&#34; alt=&#34;админка&#34; /&gt;
+
+&lt;em&gt;Цена с двух сторон&lt;/em&gt;:  &lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/fill_price_lists/retweet.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/get_offer&#34;&gt;Принятие заказа&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Регистрация</title>
+      <link>http://printbooking.github.io/post/tutorials/registrate/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/registrate/</guid>
+      <description>&lt;p&gt;Перейдите по ссылке &lt;a href=&#34;http://printbooking.github.io/&#34;&gt;PrintBooking&lt;/a&gt;. Нажмите на копку &amp;ldquo;НАЧАТЬ&amp;rdquo;. Выберите тариф и
+нажмите &amp;ldquo;Зарегистрируйся&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/registrate/tariff.png&#34; alt=&#34;тариф&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Появится следующая форма. Заполняем: имя, почта и пароль.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/registrate/reg_form.png&#34; alt=&#34;форма&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Поздравляем, Вы зарегистрировались в PrintBooking. После регистрации Вы попали
+в админку.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/registrate/first_admin.png&#34; alt=&#34;админка&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Следующее: &lt;strong&gt;&lt;em&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/fill_my_contact&#34;&gt;Заполнение контактной информации&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Принятие заказа</title>
+      <link>http://printbooking.github.io/post/tutorials/get_offer/</link>
+      <pubDate>Thu, 01 Jan 2015 15:05:41 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/get_offer/</guid>
+      <description>&lt;p&gt;После того, как прайс-лист заполнен, Вы можете перейти по ссылке в системе &amp;ldquo;Принять заказ&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Загрузится следующее окно:
+&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/index.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Рассмотрим более подробно слева вниз.
+В этой области экрана обозначены: номер чека, итоговая сумма чека и количество страниц
+каждого формата.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/top_left.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Следующий экран дает нам представление об активных номенклатурах. Три кнопки слева направо: поиск чека по номеру,
+удаление всех активных номенклатур, удаление последней активной номенклатуры.
+Для быстрого редактирования: при нажатии на активную номерклатуру - она удалится из списка.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/cur_noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;После того, как товары/услуги добавлены в чек, необходимо его закрыть. Для этого существуют следующие
+кнопки:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Оплатить - нажимается при оплате товаров/услуг, при этом в последующих окнах устанавливаются контрагенты, скидки.&lt;/li&gt;
+&lt;li&gt;Пречек - нажимается, когда заказ не завершен (заказ не сделан) и в последующем окне спрашивается связm с контрагентом. &lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/precheck/&#34;&gt;Подробнее&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Завершить - моментально закрывает чек без вопросов.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/big_buttons.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Наиболее популярные товары/услуги заносятся в быстрый старт, который можно скрыть нажатием
+на панель с надписью &amp;ldquo;Быстрый старт&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/fast_start.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Есть навигация по номеклатурам: по основным категориям (формат, материал, цветность и заполнение) и дополнительным(полиграфия, постпечать, брошюровка).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/navigation.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;На следующем экране перечислены все основные номенклатуры для быстрого добавления товаров/услуг в чек.
+При выборе номенклатур система исклучает несвязанные в прайсах номенклатуры, что позволяет уменьшить время поиска номенклатур.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/noms.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Если номенклатры соотвествуют товару или услуге, то показывается следующее окно для уточнения параметрова заказа (количество, количество экземпляров и другое)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;При выборе количества экземпляров показывается экономия в зависимости от тиража.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/show_price.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;При выборе &amp;ldquo;С двух сторон&amp;rdquo; добавляются номенклатуры второй стороны, которые так же как и номенклатуры первой стороны можно поменять, щелкая на них.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/show_price_twice.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Если данный товар/услуга введены верно, нажимается &amp;ldquo;В чек&amp;rdquo; и товар добавляется в чек. Иначе выходим в основное окно.
+Под большими кнопками расположились связанные с товаром/услугой дополнительные номенклатуры.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/buttons_finish.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Так выглядит окно с выбранными дополнительными услугами/товарами.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/finish_with_dops.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;После нажатия &amp;ldquo;В чек&amp;rdquo; нажимаем кнопку &amp;ldquo;Оплатить&amp;rdquo;. Появляется следующее окно:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/preview.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Тут можно отредактировать выбранные товары нажатием на них.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/preview_item_show_menu.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Во вкладке &amp;ldquo;Контргагент&amp;rdquo; можно привязать к заказу контрагент и потом выписать счет/акт.&lt;/p&gt;
+
+&lt;p&gt;Во вкладке &amp;ldquo;Скидка&amp;rdquo; выбирается скидка, также, если ВЫ используете бонусные карты, к заказу можно привязать карту Клиента.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/preview_sale.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Для расчета сдачи служит последняя вкладка. Выбираете сколько Вам дали денег и видите, сколько Вы должны вернуть.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/tutorials/get_offer/preview_sdacha.png&#34; alt=&#34;принятие заказа&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Видите, теперь заказ принять просто.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Содержание</title>
+      <link>http://printbooking.github.io/post/tutorials/</link>
+      <pubDate>Thu, 01 Jan 2015 14:52:02 +0300</pubDate>
+      
+      <guid>http://printbooking.github.io/post/tutorials/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;Знакомство.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/registrate&#34;&gt;Регистрация&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/fill_my_contact&#34;&gt;Контактная информация&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/fill_price_lists&#34;&gt;Обзор прайса&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/get_offer&#34;&gt;Принятие заказа&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/precheck&#34;&gt;Пречеки&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Администрирование.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Заказы&lt;/li&gt;
+&lt;li&gt;Контрагенты&lt;/li&gt;
+&lt;li&gt;Статистика&lt;/li&gt;
+&lt;li&gt;Работники&lt;/li&gt;
+&lt;li&gt;Филиалы&lt;/li&gt;
+&lt;li&gt;Бухгалтерия&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Прайсы и тиражи. Скидки.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Редактирование/Добавление прайса&lt;/li&gt;
+&lt;li&gt;Двухстороняя печать&lt;/li&gt;
+&lt;li&gt;Расчет прайсов&lt;/li&gt;
+&lt;li&gt;Расчет тиражей&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://printbooking.github.io/blog/post/tutorials/sale&#34;&gt;Скидки&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Номенклатура&lt;/li&gt;
+&lt;li&gt;Категории&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
