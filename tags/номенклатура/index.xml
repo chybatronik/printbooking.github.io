@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Номенклатура on Блог</title>
-    <link>http://printbooking.org/blog/tags/%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0/</link>
+    <link>http://printbooking.github.io/tags/%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0/</link>
     <description>Recent content in Номенклатура on Блог</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>Copyright (c) 2015, Printbooking.org; all rights reserved.</copyright>
     <lastBuildDate>Thu, 12 Mar 2015 15:05:41 +0300</lastBuildDate>
-    <atom:link href="http://printbooking.org/blog/tags/%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://printbooking.github.io/tags/%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Улучшили интерфейс номенклатуры</title>
-      <link>http://printbooking.org/blog/post/improve_nomenklatyras/</link>
+      <link>http://printbooking.github.io/post/improve_nomenklatyras/</link>
       <pubDate>Thu, 12 Mar 2015 15:05:41 +0300</pubDate>
       
-      <guid>http://printbooking.org/blog/post/improve_nomenklatyras/</guid>
+      <guid>http://printbooking.github.io/post/improve_nomenklatyras/</guid>
       <description>&lt;p&gt;Настало время для повышения удобства в админке.
 Мы фиксировали много жалоб по затруднению редактирования и созданию номерклатур.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/improve_nomenklatyras/nom_2015_03_12.png&#34; alt=&#34;Что было&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/nom_2015_03_12.png&#34; alt=&#34;Что было&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Улучшили навигацию по тегам,отображение кнопок, интерфейс стал более понятным.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/improve_nomenklatyras/nom_b1_2015_03_12.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/nom_b1_2015_03_12.png&#34; alt=&#34;Что стало&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Теперь кнопка &amp;ldquo;+&amp;rdquo;&amp;rdquo; возле названия раздела обозначает добавление новой номенклатуры.
@@ -32,12 +32,12 @@
 (это заполнение, формат, материал, цветность) и допы (полиграфия, постпечать и все остальное).
 Внутренний тег используется для структурированного отображения номенклатур.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/improve_nomenklatyras/base_dop_nom.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/base_dop_nom.png&#34; alt=&#34;Что стало&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Улучшены надписи с пояснением что за параметр. Надеемся, теперь будет легче понимать, что надо редактировать.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://printbooking.org/blog/blog/image/improve_nomenklatyras/params_noms.png&#34; alt=&#34;Что стало&#34; /&gt;
+&lt;p&gt;&lt;img src=&#34;http://printbooking.github.io/blog/image/improve_nomenklatyras/params_noms.png&#34; alt=&#34;Что стало&#34; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Мы стали ближе к нашей цели.&lt;/p&gt;
